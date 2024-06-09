@@ -1,0 +1,105 @@
+body {
+    width: 50%;
+    margin-left: 450px;
+    height: 100%;
+}
+
+.login_form{
+    background-color: #FFE0E6;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.facebook_login {
+        width: 77%;
+        margin-left: 81px;
+        border: 1px #2D4373 solid;
+        background: white;
+        margin-bottom: 32px;
+}
+    
+
+.facebook_login img{
+    width: 70px;
+    padding-left: 0px;
+}
+
+.facebook_login a{
+    padding-top: 10px;
+    margin-left: 154px;
+    font-size: 20px;
+    color: #2D4373;
+    text-decoration: none;
+}
+
+h2{
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+.login li{
+    list-style: none;
+}
+
+.email_box {
+    font-size: 20px;
+    margin-bottom: 13px;
+    margin-left: 84px;
+}
+
+.email_box input{
+    width: 497px;
+}
+
+.pass_box {
+    font-size: 20px;
+    margin-bottom: 13px;
+    margin-left: 84px;
+}
+
+.pass_box input{
+    width: 499px;
+}
+
+.label_email{
+    margin-right: 36px;
+}
+
+.login_button{
+    text-align: center;
+    font-size: 21px;
+    margin-bottom: 20px;
+    
+}
+
+.login_button button{
+    background-color: #DD5F99;
+    border: 1px #DD5F99 solid;
+    color: white;
+    width: 100px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+
+
+.footer p {
+    font-size: 18px;
+    color: #AAAAAA;
+    margin-left: 146px;
+    width: 42%;
+}
+
+.footer button{
+    width: 100px;
+    background-color: #DD5F99;
+    border: 1px #DD5F99 solid;
+    color: white;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+
+
